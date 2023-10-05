@@ -19,5 +19,9 @@ public class Main {
         System.out.printf("Hello +1");
         System.out.printf("Hello xD");
         System.out.printf("cos tam");
+
+        System.out.printf("Hello +11");
+        System.out.printf("Hello xDD");
+        System.out.printf("cos tamm");
     }
 }
