@@ -18,5 +18,6 @@ public class Main {
     public void cos() {
         System.out.printf("Hello +1");
         System.out.printf("Hello xD");
+        System.out.printf("cos tam");
     }
 }
